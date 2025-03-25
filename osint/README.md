@@ -8,7 +8,7 @@ Our mission is to produce **actionable, open-source intelligence** for decision-
 
 ## Latest Report
 
-### [Signal, QR Codes, and Nation-State Threats: Analyzing the Pentagon’s Recent OPSEC Bulletin](./Signal_OPSEC_Threat_Report_OffByOne_Draft.pdf)
+### [Signal, QR Codes, and Nation-State Threats: Analyzing the Pentagon’s Recent OPSEC Bulletin](./20250325-OffByOne-Signal_OPSEC_Threat_Report_Draft.pdf)
 
 In March 2025, a leaked Pentagon OPSEC bulletin revealed the possible exploitation of Signal Messenger’s “linked device” feature by Russian APT actors. Our analysis explores:
 
